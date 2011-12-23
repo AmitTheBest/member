@@ -1,1 +1,15 @@
-Membership Website
+This is an implementation of your generic membership site. Download and customize this
+to suit the needs of your own member community. You can decide how users are going to
+join your member site and what additional benefits they will have on the site and what
+informatino they can access. Here are some of the features:
+
+ - registration form
+ - ability to customize member's data
+ - use payment step or email confirmation
+ - allow members to fill their public profiles
+ - allow members to enlist themselves under grous such as
+   - services
+   - regional groups
+   - sub-organizations
+
+The project is built on Agile Toolkit and can be flexibliy extended and further modified.
