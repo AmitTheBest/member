@@ -1,0 +1,61 @@
+Agile Membership Site Project
+=============================
+
+Goals of the project
+--------------------
+This project is web application for creating a membership sites such as associations,
+BNI sites, professional catalogues and directories. With this application you can
+configure your installation to have paid member signup and define what additional
+benefits members will have.
+
+Commonly members would be able to publish their profile on the site under the "Directory"
+section. Additionally they will be able to list themselves under certain categories,
+which you as an administrator can easily define.
+
+There may be some website content which will only be available to members.
+
+
+Setting your member site
+------------------------
+Presumably you already have a homepage running on your own domain http://example.org/.
+You may wonder, how would you now create a membership site under http://example.org/members.
+
+First, download the "Agile Member Site" and unpack it under /members/ directory. Once done,
+open that URL in your web browser and follow instructions there. You will be asked to
+provide access to your database and perform initial configuration of your site such as define
+name of your site, membership cost etc. You will be able to change those parameters later
+at anytime.
+
+
+Roles on your site
+------------------
+You as the first user on your website will have "administrator" role. This will allow you to
+access member's area, edit other members and configure site settings.
+
+Users who will use registration form will have users with "member" role. This will allow them
+to access members area and edit their own profile.
+
+
+Future development
+------------------
+Project is managed through a standard Agile life-cycle. Features are suggested and are accumulated
+in a publically available list. Others may vote them up / down. Developers may decide which
+features they implement, then fork the github repository to do their work. Once feature is complete
+they can initiate push request.
+
+If you are willing to participate, install project for yourself, look for things you want to add,
+then recommend them. You are welcome to contribute code also.
+
+
+
+Sample Features
+---------------
+Some ideas for the further features would be
+ - New role "manager" who will be able to review members, but won't have full admin rights
+ - Integrate with CMS to allow administrator to edit pages
+ - Different membership types
+ - Recurring payments. 
+
+
+
+
